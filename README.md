@@ -1,4 +1,1 @@
-<h1  align="center">minshel/kotosho</h1>
-<p align="center">
-  <img src="Langs.png" width="25%">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=00F712&multiline=true&width=435&height=60&lines=minshel+%2F+kotosho;C%2B%2B+%2F+LuaU+%2F+Python+%2F+GDScript)](https://git.io/typing-svg)
