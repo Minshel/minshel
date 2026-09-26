@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=00F712&multiline=true&width=435&height=60&lines=minshel+%2F+kotosho;C%2B%2B+%2F+LuaU+%2F+Python+%2F+GDScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1&color=00F712&multiline=true&width=435&height=60&lines=minshel+%2F+kotosho;C%2B%2B+%7C+LuaU+%7C+Python+%7C+GDScript)](https://github.com/Minshel?tab=repositories)
